@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/trishita03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/trishita03/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/trishita03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/trishita03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/trishita03/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -36,6 +38,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/trishita03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/trishita03/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/trishita03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/trishita03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->

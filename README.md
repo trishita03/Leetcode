@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/trishita03/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/trishita03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trishita03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0617-merge-two-binary-trees](https://github.com/trishita03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/trishita03/Leetcode/tree/master/0938-range-sum-of-bst) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/trishita03/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/trishita03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trishita03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0617-merge-two-binary-trees](https://github.com/trishita03/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Union-Find
@@ -61,9 +63,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/trishita03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trishita03/Leetcode/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/trishita03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trishita03/Leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->

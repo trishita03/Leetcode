@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/trishita03/Leetcode/tree/master/0200-number-of-islands) |
 | [0503-next-greater-element-ii](https://github.com/trishita03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/trishita03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1514-path-with-maximum-probability](https://github.com/trishita03/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/trishita03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/trishita03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trishita03/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/trishita03/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/trishita03/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -84,9 +86,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trishita03/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/trishita03/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trishita03/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/trishita03/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/trishita03/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/trishita03/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/trishita03/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/trishita03/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/trishita03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/trishita03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/trishita03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1514-path-with-maximum-probability](https://github.com/trishita03/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/trishita03/Leetcode/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/trishita03/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

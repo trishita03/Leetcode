@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/trishita03/Leetcode/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/trishita03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/trishita03/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/trishita03/Leetcode/tree/master/0200-number-of-islands) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/trishita03/Leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/trishita03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |

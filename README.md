@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/trishita03/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/trishita03/Leetcode/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/trishita03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/trishita03/Leetcode/tree/master/0189-rotate-array) |
@@ -113,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/trishita03/Leetcode/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/trishita03/Leetcode/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/trishita03/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/trishita03/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->

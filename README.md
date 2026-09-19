@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/trishita03/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/trishita03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/trishita03/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/trishita03/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0503-next-greater-element-ii](https://github.com/trishita03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/trishita03/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1514-path-with-maximum-probability](https://github.com/trishita03/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/trishita03/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/trishita03/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/trishita03/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path

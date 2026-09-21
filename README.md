@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/trishita03/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/trishita03/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/trishita03/Leetcode/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/trishita03/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/trishita03/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/trishita03/Leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/trishita03/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window

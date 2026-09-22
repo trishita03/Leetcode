@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/trishita03/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/trishita03/Leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/trishita03/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0409-longest-palindrome](https://github.com/trishita03/Leetcode/tree/master/0409-longest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/trishita03/Leetcode/tree/master/0018-4sum) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/trishita03/Leetcode/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/trishita03/Leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
